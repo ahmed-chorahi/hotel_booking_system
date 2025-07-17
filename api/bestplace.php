@@ -7,6 +7,7 @@ $url = "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=$se
 
 // Initialize cURL
 $ch = curl_init($url);
+
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $response = curl_exec($ch);
 curl_close($ch);

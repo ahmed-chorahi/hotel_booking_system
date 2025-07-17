@@ -12,6 +12,7 @@ function slide()
     if(myIndex>x.length)
         {
             myIndex=1;
+            
         }
     x[myIndex-1].style.display="block";
     setTimeout(slide,1500);

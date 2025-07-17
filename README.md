@@ -52,6 +52,7 @@ This project is a **Hotel Management System** built with PHP, Bootstrap, and MyS
   The project uses a PHP endpoint (`api/bestplace.php`) to fetch famous places in Pakistan (or globally) from Wikipedia.  
   The frontend (`bestplaces_view.php`) visualizes this data in a user-friendly format.
 
+
 ---
 
 ## How to Run

@@ -70,6 +70,7 @@
                     <li><a href="admin.php">Admin</a></li>
                     <li><a href="api/bestplaces_view.php">Best Places</a></li>
                 </ul>
+                
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="http://www.facebook.com"><img src="images/facebook.png"></a></li>
                     <li><a href="http://www.twitter.com"><img src="images/twitter.png"></a></li>                    

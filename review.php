@@ -33,6 +33,7 @@
 <body>
     <div class="container">
       
+    
       
        <img class="img-responsive" src="images/home_banner.jpg" style="width:100%; height:180px;">      
         <nav class="navbar navbar-inverse">

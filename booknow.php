@@ -80,6 +80,7 @@
                     <input type="text" class="form-control" name="name" placeholder="Jhon Wicky" required>
                 </div>
                 <div class="form-group">
+                    
                     <label for="phone">Enter Your Phone Number:</label>
                     <input type="text" class="form-control" name="phone" placeholder="018XXXXXXX" required>
                 </div>

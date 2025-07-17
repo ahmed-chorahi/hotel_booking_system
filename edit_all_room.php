@@ -14,6 +14,7 @@ if(isset($_REQUEST[ 'submit']))
     extract($_REQUEST); 
     $result=$user->edit_all_room($checkin, $checkout, $name, $phone,$id);
     if($result)
+        
     {
         echo "<script type='text/javascript'>
               alert('".$result."');

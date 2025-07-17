@@ -11,6 +11,7 @@ if(isset($_GET['q']))
     $user->user_logout();
  header("location:index.php"); 
 } 
+
 ?>
 
 
