@@ -102,7 +102,3 @@ hotel/
 - **Wikipedia API** for tourist places data
 
 ---
-
-## License
-
-This project is
