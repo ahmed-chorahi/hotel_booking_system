@@ -14,6 +14,7 @@
             }
             public function reg_user($name, $username, $password, $email)
             {
+                
                 //$password=md5($password);
                 $sql="SELECT * FROM manager WHERE uname='$username' OR uemail='$email'";
                 $check=$this->db->query($sql);
