@@ -35,6 +35,7 @@ This project is a **Hotel Management System** built with PHP, Bootstrap, and MyS
 
 ## Technologies
 
+- **HTML** for webpages stucture
 - **Bootstrap** for UI
 - **Chart.js** for data visualization
 - **PHP** for backend 
