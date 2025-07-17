@@ -33,6 +33,18 @@ This project is a **Hotel Management System** built with PHP, Bootstrap, and MyS
 
 ---
 
+## Technologies
+
+- **Bootstrap** for UI
+- **Chart.js** for data visualization
+- **PHP** for backend 
+- **mySQL** for database 
+- **Wikipedia API** for tourist places data
+
+---
+
+---
+
 ## API Integration
 
 - **Tourist Places API:**  
@@ -93,12 +105,4 @@ hotel/
 └── ...other files...
 ```
 
----
 
-## Credits
-
-- **Bootstrap** for UI
-- **Chart.js** for data visualization
-- **Wikipedia API** for tourist places data
-
----
